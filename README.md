@@ -1,2 +1,1 @@
-# murtosl.github.io
-Site
+http://murtosl.github.io/
