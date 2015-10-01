@@ -1,0 +1,11 @@
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "murtosl"
+      author: "Sarah Murto"
+      category: "test"
+kramdown:
+  input: GFM
