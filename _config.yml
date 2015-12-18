@@ -1,11 +1,7 @@
 defaults:
   -
-    scope:
-      path: "projects"
-      type: "pages"
     values:
-      layout: "murtosl"
       author: "Sarah Murto"
-      category: "test"
+permalink: /:categories/:month-:day-:year/:title
 kramdown:
   input: GFM

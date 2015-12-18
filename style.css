@@ -107,6 +107,13 @@ nav{
 	margin-top: 5px;
 }
 
+.postdate{
+	padding: 0;
+	margin: 0;
+	text-align: right;
+	font-size: 12px;
+}
+
 .TheAudience{
 	text-align: right;
 	font-style: italic;
