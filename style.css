@@ -6,6 +6,33 @@
 body{
 	
 		background-color: #FAFEFF;
+		overflow-x: hidden;
+}
+
+p{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+nav{
+	text-align:center;
+}
+
+nav a{
+	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+	font-variant: small-caps;
+	font-size: 18px;
+	text-decoration: none;
+	padding-right: 10%;
+	color: #056180;
+	font-weight: normal;
+}
+
+a{
+	text-decoration: none;
+	color: #048EBD;
+	font-weight: bold;
 }
 
 header{
@@ -40,7 +67,14 @@ header{
 		padding-top: 40px;
 		margin-right: 20px; 
 }
+	nav{
+		min-width: 320px;
+	}
 	
+	nav a{
+		font-size: 14px;
+		padding-right: 10px;
+	}
 }
 
 @media (max-width:800px) {
@@ -64,4 +98,32 @@ nav{
 #container{
 	padding-top: 0px;
 	font-family: Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif
+}
+
+#container img, iframe{
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 5px;
+}
+
+.TheAudience{
+	text-align: right;
+	font-style: italic;
+	color: #056180;
+}
+.Response{
+	text-align: left;
+	padding-left: 0px;
+	font-style: italic;
+}
+
+
+.lyrics{
+	text-align: center;
+	font-style: italic;
+}
+.cite{
+	font-size: 10px;
+	text-align: center;
 }

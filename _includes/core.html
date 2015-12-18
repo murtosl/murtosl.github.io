@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ENDELSEBEGIN  {% if page.title != nil %} -
+				{{ page.title }}
+			{% endif %}
+	</title>
+	<link rel="stylesheet" href="{{ site.baseurl }}/{{page.css}}" />
+</head>
+<body>
+	{% include header.html %}
+	{% include navigation.html %}
+	<section id="middle">
+		<div id="container">
+			<section id="content">
+				{{ content }}
+			</section>
+		</div>
+	</section>
+	{% include footer.html %}
+</body>
+</html>
