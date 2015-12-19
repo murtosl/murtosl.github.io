@@ -2,6 +2,7 @@ defaults:
   -
     values:
       author: "Sarah Murto"
+author: Sarah Murto
 permalink: /:categories/:month-:day-:year/:title
 kramdown:
   input: GFM
