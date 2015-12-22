@@ -5,7 +5,7 @@
 
 body{
 	
-		background-color: #FAFEFF;
+		background-color: #F7FBFC;
 		overflow-x: hidden;
 }
 
@@ -17,10 +17,11 @@ p{
 }
 
 h1, h2, h3, h4, h5, h6{
-	color: #17C5E8;
+	color: #004B78;
 }
-
 nav{
+	height: 30px;
+	background-color: #8DADBF;
 	text-align:center;
 }
 
@@ -30,13 +31,13 @@ nav a{
 	font-size: 18px;
 	text-decoration: none;
 	padding-right: 10%;
-	color: #056180;
+	color: #2F393F;
 	font-weight: normal;
 }
 
 a{
 	text-decoration: none;
-	color: #048EBD;
+	color: #5E737F;
 	font-weight: bold;
 }
 
@@ -44,9 +45,9 @@ header{
 
 	height: 60px;
 	padding-left: 5px;
-	color: #17C5E8;
+	color: #004B78;
 	font-size: 28px;
-	background-image: url('images/ENDELSEBEGIN_BLUE.png');
+	background-image: url('images/ENDELSEBEGIN_NAVY.png');
 	background-repeat: no-repeat;
 }
 
@@ -91,10 +92,6 @@ header{
 	
 }
 
-nav{
-	height: 30px;
-	background-color: #17C5E8;
-}
 
 #middle{
 	margin: 20px;
@@ -122,7 +119,7 @@ nav{
 .TheAudience{
 	text-align: right;
 	font-style: italic;
-	color: #056180;
+	color: #004B78;
 }
 .Response{
 	text-align: left;
