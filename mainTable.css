@@ -1,0 +1,58 @@
+
+#mainTbl{
+	width: 100%;
+	border-collapse: separate;
+	 border-spacing: 10px;
+}
+
+#mainTbl p{
+	padding: 0px;
+	margin: 0px;
+	text-align: justify;
+}
+
+
+#mainTbl h2{
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.conHeader {
+	background-color: #8DADBF;
+	color: #2F393F;
+	border: 2px solid #5E737F;
+}
+
+.worthHeader {
+	background-color: #B4CC81;
+	color: #705C48;
+	border: 2px solid #91765C;
+}
+
+
+.nonobHeader {
+	background-color: #17C5E8;
+	color: #056180;
+	border: 2px solid #048EBD;
+}
+
+#mainTbl .date{
+	padding: 0px;
+	margin: 0px;
+	text-align: right;
+	margin-bottom: 7px;
+}
+
+#mainTbl .title{
+	font-size: 15px;
+	margin-bottom: 7px;
+}
+
+#mainTbl td {
+	width: 30%;
+	min-width: 100px;
+	padding: 10px;
+	vertical-align: top;
+}
+
