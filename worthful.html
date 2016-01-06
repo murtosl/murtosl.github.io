@@ -1,0 +1,16 @@
+---
+layout: worthful
+title: The Worthful Blog
+desc:  Discussions of mental health, recovery, feelings, healing and learning to feel worthful.
+keywords: ENDELSEBEGIN, Worthful, Sarah Murto,mental health, recovery, meditation, feelings, healing, BPD, Adult Children, resources
+---
+
+
+<p>Discussions of mental health, recovery, feelings, healing and learning to <a href="{% post_url worthful/2016-01-06-Worthful %}">feel worthful</a>.</p>
+<hr/>
+
+{% for post in site.categories['worthfull'] %}
+    <p><a href="{{ post.url}}">{{ post.title }}</a> - {{ post.date | date: '%B %d, %Y'}}<br/> {{post.desc}}
+	<br/><span class="cite">Tags: {{post.keywords}}</p>
+{% endfor %}
+

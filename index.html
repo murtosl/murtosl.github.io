@@ -2,14 +2,14 @@
 layout: homepage
 title: ENDELSEBEGIN
 desc:  I made a blog. Occasionally, I write things.
-keywords: ENDELSEBEGIN, Controversatory, The Worthfull Blog, Non-Ob Blog Sarah Murto
+keywords: ENDELSEBEGIN, Controversatory, The Worthful Blog, Non-Ob Blog Sarah Murto
 ---
 
 <table id="mainTbl">
 <tr><td class="nonobHeader">
 <h2><a href="{{site.baseurl}}/main.html" style="color: #056180;">Non-Ob Blog</a></h2></td>
 	<td class="conHeader"><h2><a href="{{site.baseurl}}/controversatory.html" style="color:#5E737F;">The Controversatory</a>	</h2></td>
-	<td class="worthHeader"><h2><a href="{{site.baseurl}}/worthfull.html" style="color:#91765C;">The Worthfull Blog</a></h2></td></tr>
+	<td class="worthHeader"><h2><a href="{{site.baseurl}}/worthful.html" style="color:#91765C;">The Worthful Blog</a></h2></td></tr>
 <tr><td style="background-color:#FAFEFF;  border: 2px solid #048EBD;">
 {% assign post = site.categories['main'][0] %}
     <p class="date">{{ post.date | date: '%m/%d/%Y'}}</p>
@@ -26,7 +26,7 @@ keywords: ENDELSEBEGIN, Controversatory, The Worthfull Blog, Non-Ob Blog Sarah M
 	<td style="background-color: #FCF7F2; border: 2px solid #91765C;">
 	{% assign worth = site.categories['worthfull'][0] %}
     <p class="date">{{ worth.date | date: '%m/%d/%Y'}}</p>
-	<p class="title"><a style="color:#91765C;" href="{{ con.url}}">{{ worth.title }}</a></p>
+	<p class="title"><a style="color:#91765C;" href="{{ worth.url}}">{{ worth.title }}</a></p>
 	<p> {{ worth.desc }}</p>
 	</td></tr>
 </table>
