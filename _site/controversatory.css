@@ -51,6 +51,16 @@ header{
 	background-repeat: no-repeat;
 }
 
+.italic{
+	font-style: italic;
+	
+}
+
+.center {
+	text-align: center;
+	
+}
+
 
 #headerText {
 		width: 100%;
