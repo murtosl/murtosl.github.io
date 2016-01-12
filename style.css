@@ -1,19 +1,5 @@
-*{
-	margin: 0;
-	padding: 0;
-}
-
 body{
-	
 		background-color: #FAFEFF;
-		overflow-x: hidden;
-}
-
-p{
-	margin-top: 10px;
-	margin-bottom: 10px;
-	padding-left: 30px;
-	padding-right: 30px;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -21,122 +7,24 @@ h1, h2, h3, h4, h5, h6{
 }
 
 
-nav{
-	text-align:center;
-}
-
 nav a{
-	font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
-	font-variant: small-caps;
-	font-size: 18px;
-	text-decoration: none;
-	padding-right: 10%;
+
 	color: #056180;
-	font-weight: normal;
 }
 
 a{
-	text-decoration: none;
 	color: #048EBD;
-	font-weight: bold;
 }
 
 header{
-
-	height: 60px;
-	padding-left: 5px;
 	color: #17C5E8;
-	font-size: 28px;
 	background-image: url('images/ENDELSEBEGIN_BLUE.png');
-	background-repeat: no-repeat;
-}
-
-
-#headerText {
-		width: 100%;
-		text-align: center;
-		margin-left: 30px;
-		height: 50px;
-		padding-top: 10px;
-		font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
-		font-variant: small-caps;
-}
-
-@media (max-width:565px) {
-	header{
-		height: 80px;
-}
-	
-	#headerText {
-		float: right;
-		text-align: right;
-		padding-top: 40px;
-		margin-right: 20px; 
-}
-	nav{
-		min-width: 320px;
-	}
-	
-	nav a{
-		font-size: 14px;
-		padding-right: 10px;
-	}
-}
-
-@media (max-width:800px) {
-	#headerText {
-		text-align: right;
-		margin-left: 0px;
-		width: 97%;
-}
-	
 }
 
 nav{
-	height: 30px;
 	background-color: #17C5E8;
 }
 
-#middle{
-	margin: 20px;
-}
-
-#container{
-	padding-top: 0px;
-	font-family: Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif
-}
-
-#container img, iframe{
-	 display: block;
-    margin-left: auto;
-    margin-right: auto;
-	margin-top: 5px;
-}
-
-.postdate{
-	padding: 0;
-	margin: 0;
-	text-align: right;
-	font-size: 12px;
-}
-
 .TheAudience{
-	text-align: right;
-	font-style: italic;
 	color: #056180;
-}
-.Response{
-	text-align: left;
-	padding-left: 0px;
-	font-style: italic;
-}
-
-
-.lyrics{
-	text-align: center;
-	font-style: italic;
-}
-.cite{
-	font-size: 10px;
-	text-align: center;
 }

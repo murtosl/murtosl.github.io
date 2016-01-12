@@ -6,6 +6,7 @@ jQuery(function() {
     this.field('title', { boost: 5 });
     this.field('author');
     this.field('category');
+	this.field('desc', {boost: 15});
 	this.field('tags', { boost: 10 });
   });
 
@@ -52,7 +53,7 @@ jQuery(function() {
 		  } else {
 			  appendString += "<span style=\"color: #17C5E8;\">&#10002;</span>";
 		  }
-			appendString +=  '<a href=\"' + item.url + '\">'+ item.title +'</a> - ' + item.date + '<br/>' + item.desc + '<br/><span class=\"cite\">Tags:' + item.tags + '</p>';
+			appendString +=  '<a href=\"' + item.url + '\">'+ item.title +'</a> - ' + item.date + '<br/>' + item.desc + '<br/><span class=\"cite\">Tags: ' + item.tags + '</p>';
 
           // Add it to the results
           $search_results.append(appendString);
