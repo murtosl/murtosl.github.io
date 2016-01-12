@@ -3,10 +3,10 @@ jQuery(function() {
   // a boost of 10 to indicate matches on this field are more important.
   window.idx = lunr(function () {
     this.field('id');
-    this.field('title', { boost: 10 });
+    this.field('title', { boost: 5 });
     this.field('author');
     this.field('category');
-	this.field('tags');
+	this.field('tags', { boost: 10 });
   });
 
   // Download the data from the JSON file we generated
@@ -44,7 +44,15 @@ jQuery(function() {
           var item = loaded_data[result.ref];
 
           // Build a snippet of HTML for this result
-          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
+          var appendString = "<p>";
+		  if(item.category.indexOf("worthfull") !=-1){
+			  appendString += "<span style=\"color: green;\">&#10049;</span>";
+		  } else if(item.category.indexOf("controversatory") !=-1){
+				appendString += "<span style=\"color: navy;\">&#10019;</span>";
+		  } else {
+			  appendString += "<span style=\"color: #17C5E8;\">&#10002;</span>";
+		  }
+			appendString +=  '<a href=\"' + item.url + '\">'+ item.title +'</a> - ' + item.date + '<br/>' + item.desc + '<br/><span class=\"cite\">Tags:' + item.tags + '</p>';
 
           // Add it to the results
           $search_results.append(appendString);
