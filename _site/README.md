@@ -1,5 +1,3 @@
-http://murtosl.github.io/
+Blog blog blog.
 
-Look into https://help.github.com/articles/using-jekyll-with-pages/ and making project specific pages
-
-http://jekyllrb.com/
+Written in Jekyll, search via lunr, HTML posts.
