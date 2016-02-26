@@ -5,7 +5,15 @@
 				{{ page.title }}
 			{% endif %}
 	</title>
-	
+	<link rel="stylesheet" href="{{ site.baseurl }}/
+	{% if page.layout == 'worthful' %}
+		worthful.css
+	{% elsif page.layout == 'controversatory' %}
+		controversatory.css
+	{% else %}
+		style.css
+	{% endif %}
+	"/>
 	<link rel="stylesheet" href="{{ site.baseurl }}/base.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 	<meta name="description" content="{{page.desc}}">

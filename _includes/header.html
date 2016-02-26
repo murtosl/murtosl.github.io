@@ -1,6 +1,12 @@
 <header>
 	<div id="headerText">
-		{{ page.headerText}}
+	{% if page.layout == 'worthful' %}
+		Worthful Blog
+	{% elsif page.layout == 'controversatory' %}
+		The Controversatory
+	{% else %}
+		Non-Ob Blog
+	{% endif %}
 	</div>
 </header>
 
