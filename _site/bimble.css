@@ -1,0 +1,30 @@
+body{
+	
+		background-color: #FAF5F7;
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #D45B97;
+}
+
+nav{
+	background-color: #9F0EC7;
+}
+
+nav a{
+	color: #ffffff;
+}
+
+a{
+	color: #D45B97;
+}
+
+header{
+	color: #D45B97;
+	background-image: url('images/ENDELSEBEGIN_BROWN.png');
+}
+
+
+.TheAudience{
+	color: #8C49B3;
+}
