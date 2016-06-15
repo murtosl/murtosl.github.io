@@ -1,9 +1,45 @@
 {
   
 
-    "bimble-06-09-2016-australasiavsusculture": {
+    "bimble-06-13-2016-taupo": {
+      "title": "City Travels - Taupo",
+      "url": " /bimble/06-13-2016/Taupo",
+      "author": "Sarah Murto",
+      "category": "[&quot;bimble&quot;]",
+	  "tags" : "Taupo, New Zealand, Travel, Culture, Activities",
+	  "desc" : "Things I did and saw in Taupo.",
+	  "date" : "June 13, 2016"
+    }
+    ,
+  
+
+    "bimble-06-13-2016-auckland": {
+      "title": "City Travels - Auckland",
+      "url": " /bimble/06-13-2016/Auckland",
+      "author": "Sarah Murto",
+      "category": "[&quot;bimble&quot;]",
+	  "tags" : "Auckland, New Zealand, Travel, Culture, Activities",
+	  "desc" : "Things I did and saw in Auckland.",
+	  "date" : "June 13, 2016"
+    }
+    ,
+  
+
+    "bimble-06-11-2016-sydney": {
+      "title": "City Travels - Sydney",
+      "url": " /bimble/06-11-2016/Sydney",
+      "author": "Sarah Murto",
+      "category": "[&quot;bimble&quot;]",
+	  "tags" : "Australia, Sydney, Travel, Culture, Activities",
+	  "desc" : "Things I did and saw in Sydney.",
+	  "date" : "June 11, 2016"
+    }
+    ,
+  
+
+    "bimble-06-09-2016-australasiavsusculture-copy": {
       "title": "Australasia VS US Culture",
-      "url": " /bimble/06-09-2016/AustralasiaVSUSCulture",
+      "url": " /bimble/06-09-2016/AustralasiaVSUSCulture-Copy",
       "author": "Sarah Murto",
       "category": "[&quot;bimble&quot;]",
 	  "tags" : "Australia, New Zealand, Culture, America",
