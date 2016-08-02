@@ -1,6 +1,30 @@
 {
   
 
+    "bimble-07-30-2016-picton": {
+      "title": "City Travels - Picton",
+      "url": " /bimble/07-30-2016/Picton",
+      "author": "Sarah Murto",
+      "category": "[&quot;bimble&quot;]",
+	  "tags" : "Picton, New Zealand, Travel, Culture, Activities",
+	  "desc" : "Things I did and saw in Picton.",
+	  "date" : "July 30, 2016"
+    }
+    ,
+  
+
+    "bimble-07-30-2016-nelson": {
+      "title": "City Travels - Nelson",
+      "url": " /bimble/07-30-2016/Nelson",
+      "author": "Sarah Murto",
+      "category": "[&quot;bimble&quot;]",
+	  "tags" : "Nelson, New Zealand, Travel, Culture, Activities",
+	  "desc" : "Things I did and saw in Nelson.",
+	  "date" : "July 30, 2016"
+    }
+    ,
+  
+
     "bimble-06-22-2016-wellington": {
       "title": "City Travels - Wellington",
       "url": " /bimble/06-22-2016/Wellington",
