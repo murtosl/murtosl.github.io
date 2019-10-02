@@ -1,8 +1,9 @@
 defaults:
   -
     values:
-      author: "Sarah Murto"
-author: Sarah Murto
+      author: "Sarah Overmyer"
+author: Sarah Overmyer
 permalink: /:categories/:month-:day-:year/:title
 kramdown:
   input: GFM
+exclude: ["package-lock.json", "package.json", "Gemfile", "Gemfile.lock"]

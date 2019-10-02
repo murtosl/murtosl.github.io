@@ -1,363 +1,363 @@
-{
+[
   
-
-    "controversatory-02-08-2017-burningstrawmen": {
+    {
+      "id": "controversatory-02-08-2017-burningstrawmen",
       "title": "Burning Straw Men",
       "url": " /controversatory/02-08-2017/BurningStrawMen",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;controversatory&quot;]",
-	  "tags" : "politics, parties, democrat, republican, discussion, straw men, conversion, arguements",
-	  "desc" : "Political issues are very nuanced to be simplified. But, simplifications are all we seem to see. Never forget the real depth that exists with any issue. Never forget that people are people",
-	  "date" : "February 08, 2017"
+      "tags" : "politics, parties, democrat, republican, discussion, straw men, conversion, arguements",
+      "desc" : "Political issues are very nuanced to be simplified. But, simplifications are all we seem to see. Never forget the real depth that exists with any issue. Never forget that people are people",
+      "date" : "February 08, 2017"
     }
     ,
   
-
-    "controversatory-02-03-2017-failure": {
+    {
+      "id": "controversatory-02-03-2017-failure",
       "title": "Failure",
       "url": " /controversatory/02-03-2017/Failure",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;controversatory&quot;]",
-	  "tags" : "failure, life, hope, depression, maybe",
-	  "desc" : "Failure is what scares me the most. Everyone around me is going to know. Everyone's going to ask me what happened.",
-	  "date" : "February 03, 2017"
+      "tags" : "failure, life, hope, depression, maybe",
+      "desc" : "Failure is what scares me the most. Everyone around me is going to know. Everyone's going to ask me what happened.",
+      "date" : "February 03, 2017"
     }
     ,
   
-
-    "main-01-02-2017-2016lessonslearned": {
+    {
+      "id": "main-01-02-2017-2016lessonslearned",
       "title": "2016 - Lessons Learned",
       "url": " /main/01-02-2017/2016LessonsLearned",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;main&quot;]",
-	  "tags" : "Sarah Murto, New Year, lessons, life, retrospective",
-	  "desc" : "Every month in 2016 had a lesson to learn",
-	  "date" : "January 02, 2017"
+      "tags" : "Sarah Murto, New Year, lessons, life, retrospective",
+      "desc" : "Every month in 2016 had a lesson to learn",
+      "date" : "January 02, 2017"
     }
     ,
   
-
-    "bimble-08-24-2016-ldr": {
+    {
+      "id": "bimble-08-24-2016-ldr",
       "title": "To Leave or to Love",
       "url": " /bimble/08-24-2016/LDR",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Long Distance Relationships, travel, relationships, romance, timing, boyfriend, girlfriend",
-	  "desc" : "Long Distance Relationships on the Road",
-	  "date" : "August 24, 2016"
+      "tags" : "Long Distance Relationships, travel, relationships, romance, timing, boyfriend, girlfriend",
+      "desc" : "Long Distance Relationships on the Road",
+      "date" : "August 24, 2016"
     }
     ,
   
-
-    "bimble-08-16-2016-franzjospehandgreymouth": {
+    {
+      "id": "bimble-08-16-2016-franzjospehandgreymouth",
       "title": "City Travels - West Coast",
       "url": " /bimble/08-16-2016/FranzJospehandGreymouth",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Franz Josef, Glacier, Greymouth, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Franz Josef and Greymouth.",
-	  "date" : "August 16, 2016"
+      "tags" : "Franz Josef, Glacier, Greymouth, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Franz Josef and Greymouth.",
+      "date" : "August 16, 2016"
     }
     ,
   
-
-    "bimble-08-14-2016-wanaka": {
+    {
+      "id": "bimble-08-14-2016-wanaka",
       "title": "City Travels - Wanaka",
       "url": " /bimble/08-14-2016/Wanaka",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Wanaka, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Wanaka.",
-	  "date" : "August 14, 2016"
+      "tags" : "Wanaka, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Wanaka.",
+      "date" : "August 14, 2016"
     }
     ,
   
-
-    "bimble-08-13-2016-queenstown": {
+    {
+      "id": "bimble-08-13-2016-queenstown",
       "title": "City Travels - Queenstown",
       "url": " /bimble/08-13-2016/Queenstown",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Queenstown, New Zealand, Travel, Culture, Activities, Milford Sounds",
-	  "desc" : "Things I did and saw in Queenstown.",
-	  "date" : "August 13, 2016"
+      "tags" : "Queenstown, New Zealand, Travel, Culture, Activities, Milford Sounds",
+      "desc" : "Things I did and saw in Queenstown.",
+      "date" : "August 13, 2016"
     }
     ,
   
-
-    "bimble-08-09-2016-dunedin": {
+    {
+      "id": "bimble-08-09-2016-dunedin",
       "title": "City Travels - Dunedin",
       "url": " /bimble/08-09-2016/Dunedin",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Dunedin, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Dunedin.",
-	  "date" : "August 09, 2016"
+      "tags" : "Dunedin, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Dunedin.",
+      "date" : "August 09, 2016"
     }
     ,
   
-
-    "bimble-08-03-2016-christchurch": {
+    {
+      "id": "bimble-08-03-2016-christchurch",
       "title": "City Travels - Christchurch",
       "url": " /bimble/08-03-2016/Christchurch",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Christchurch, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Christchurch.",
-	  "date" : "August 03, 2016"
+      "tags" : "Christchurch, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Christchurch.",
+      "date" : "August 03, 2016"
     }
     ,
   
-
-    "bimble-08-02-2016-kaikoura": {
+    {
+      "id": "bimble-08-02-2016-kaikoura",
       "title": "City Travels - Kaikoura",
       "url": " /bimble/08-02-2016/Kaikoura",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Kaikoura, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Kaikoura.",
-	  "date" : "August 02, 2016"
+      "tags" : "Kaikoura, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Kaikoura.",
+      "date" : "August 02, 2016"
     }
     ,
   
-
-    "bimble-07-30-2016-picton": {
+    {
+      "id": "bimble-07-30-2016-picton",
       "title": "City Travels - Picton",
       "url": " /bimble/07-30-2016/Picton",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Picton, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Picton.",
-	  "date" : "July 30, 2016"
+      "tags" : "Picton, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Picton.",
+      "date" : "July 30, 2016"
     }
     ,
   
-
-    "bimble-07-30-2016-nelson": {
+    {
+      "id": "bimble-07-30-2016-nelson",
       "title": "City Travels - Nelson",
       "url": " /bimble/07-30-2016/Nelson",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Nelson, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Nelson.",
-	  "date" : "July 30, 2016"
+      "tags" : "Nelson, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Nelson.",
+      "date" : "July 30, 2016"
     }
     ,
   
-
-    "bimble-06-22-2016-wellington": {
+    {
+      "id": "bimble-06-22-2016-wellington",
       "title": "City Travels - Wellington",
       "url": " /bimble/06-22-2016/Wellington",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Wellington, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Wellington.",
-	  "date" : "June 22, 2016"
+      "tags" : "Wellington, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Wellington.",
+      "date" : "June 22, 2016"
     }
     ,
   
-
-    "bimble-06-15-2016-rotorua": {
+    {
+      "id": "bimble-06-15-2016-rotorua",
       "title": "City Travels - Rotorua",
       "url": " /bimble/06-15-2016/Rotorua",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Rotorua, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Rotorua.",
-	  "date" : "June 15, 2016"
+      "tags" : "Rotorua, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Rotorua.",
+      "date" : "June 15, 2016"
     }
     ,
   
-
-    "bimble-06-13-2016-taupo": {
+    {
+      "id": "bimble-06-13-2016-taupo",
       "title": "City Travels - Taupo",
       "url": " /bimble/06-13-2016/Taupo",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Taupo, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Taupo.",
-	  "date" : "June 13, 2016"
+      "tags" : "Taupo, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Taupo.",
+      "date" : "June 13, 2016"
     }
     ,
   
-
-    "bimble-06-13-2016-auckland": {
+    {
+      "id": "bimble-06-13-2016-auckland",
       "title": "City Travels - Auckland",
       "url": " /bimble/06-13-2016/Auckland",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Auckland, New Zealand, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Auckland.",
-	  "date" : "June 13, 2016"
+      "tags" : "Auckland, New Zealand, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Auckland.",
+      "date" : "June 13, 2016"
     }
     ,
   
-
-    "bimble-06-11-2016-sydney": {
+    {
+      "id": "bimble-06-11-2016-sydney",
       "title": "City Travels - Sydney",
       "url": " /bimble/06-11-2016/Sydney",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Australia, Sydney, Travel, Culture, Activities",
-	  "desc" : "Things I did and saw in Sydney.",
-	  "date" : "June 11, 2016"
+      "tags" : "Australia, Sydney, Travel, Culture, Activities",
+      "desc" : "Things I did and saw in Sydney.",
+      "date" : "June 11, 2016"
     }
     ,
   
-
-    "bimble-06-09-2016-australasiavsusculture-copy": {
+    {
+      "id": "bimble-06-09-2016-australasiavsusculture-copy",
       "title": "Australasia VS US Culture",
       "url": " /bimble/06-09-2016/AustralasiaVSUSCulture-Copy",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;bimble&quot;]",
-	  "tags" : "Australia, New Zealand, Culture, America",
-	  "desc" : "Things I've noticed while backpacking Australia and New Zealand.",
-	  "date" : "June 09, 2016"
+      "tags" : "Australia, New Zealand, Culture, America",
+      "desc" : "Things I've noticed while backpacking Australia and New Zealand.",
+      "date" : "June 09, 2016"
     }
     ,
   
-
-    "05-31-2016-knowtocode": {
+    {
+      "id": "05-31-2016-knowtocode",
       "title": "Knowtocode",
       "url": " /05-31-2016/KnowToCode",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[]",
-	  "tags" : "",
-	  "desc" : "",
-	  "date" : "May 31, 2016"
+      "tags" : "",
+      "desc" : "",
+      "date" : "May 31, 2016"
     }
     ,
   
-
-    "05-30-2016-aventuredownunder": {
+    {
+      "id": "05-30-2016-aventuredownunder",
       "title": "Aventuredownunder",
       "url": " /05-30-2016/AVentureDownUnder",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[]",
-	  "tags" : "",
-	  "desc" : "",
-	  "date" : "May 30, 2016"
+      "tags" : "",
+      "desc" : "",
+      "date" : "May 30, 2016"
     }
     ,
   
-
-    "worthfull-02-25-2016-findingnormal": {
+    {
+      "id": "worthfull-02-25-2016-findingnormal",
       "title": "Finding Normal - Going to Therapy",
       "url": " /worthfull/02-25-2016/FindingNormal",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;worthfull&quot;]",
-	  "tags" : "worthful, healing, therapy, counseling, help, negative thoughts, emotions, i got this, finding normal,",
-	  "desc" : "Most people are resistant to the idea of going to therapy, but sometimes you're too close to your own situation. Sometimes, you need someone to point out to you when something is wrong.",
-	  "date" : "February 25, 2016"
+      "tags" : "worthful, healing, therapy, counseling, help, negative thoughts, emotions, i got this, finding normal,",
+      "desc" : "Most people are resistant to the idea of going to therapy, but sometimes you're too close to your own situation. Sometimes, you need someone to point out to you when something is wrong.",
+      "date" : "February 25, 2016"
     }
     ,
   
-
-    "02-22-2016-howtogradschool": {
+    {
+      "id": "02-22-2016-howtogradschool",
       "title": "Howtogradschool",
       "url": " /02-22-2016/HowToGradSchool",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[]",
-	  "tags" : "",
-	  "desc" : "",
-	  "date" : "February 22, 2016"
+      "tags" : "",
+      "desc" : "",
+      "date" : "February 22, 2016"
     }
     ,
   
-
-    "main-02-22-2016-howtogradschool": {
+    {
+      "id": "main-02-22-2016-howtogradschool",
       "title": "How to Grad School",
       "url": " /main/02-22-2016/HowToGradSchool",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;main&quot;]",
-	  "tags" : "humor, graduate school, Master's degree, advice, after school, career, applications",
-	  "desc" : "The key difference between graduate school and undergraduate school is how much every decision you make towards your degree matters. If you are not going to grad school with a clear sense of purpose, you should not be there.",
-	  "date" : "February 22, 2016"
+      "tags" : "humor, graduate school, Master's degree, advice, after school, career, applications",
+      "desc" : "The key difference between graduate school and undergraduate school is how much every decision you make towards your degree matters. If you are not going to grad school with a clear sense of purpose, you should not be there.",
+      "date" : "February 22, 2016"
     }
     ,
   
-
-    "01-12-2016-40journeys": {
+    {
+      "id": "01-12-2016-40journeys",
       "title": "40journeys",
       "url": " /01-12-2016/40Journeys",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[]",
-	  "tags" : "",
-	  "desc" : "",
-	  "date" : "January 12, 2016"
+      "tags" : "",
+      "desc" : "",
+      "date" : "January 12, 2016"
     }
     ,
   
-
-    "main-01-12-2016-40journeys": {
+    {
+      "id": "main-01-12-2016-40journeys",
       "title": "Forty Journeys in a Silent Room",
       "url": " /main/01-12-2016/40Journeys",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;main&quot;]",
-	  "tags" : "worthful, emotions, meditation, retreat, long retreat, silence, sitting",
-	  "desc" : "I attended a six day long meditation retreat with about 40 participants. We would start meditating as a group at 8AM and leave 13 hours later. As is normal in meditation retreats, this was all done in silence.",
-	  "date" : "January 12, 2016"
+      "tags" : "worthful, emotions, meditation, retreat, long retreat, silence, sitting",
+      "desc" : "I attended a six day long meditation retreat with about 40 participants. We would start meditating as a group at 8AM and leave 13 hours later. As is normal in meditation retreats, this was all done in silence.",
+      "date" : "January 12, 2016"
     }
     ,
   
-
-    "controversatory-01-11-2016-whyofpride": {
+    {
+      "id": "controversatory-01-11-2016-whyofpride",
       "title": "The Why of Pride",
       "url": " /controversatory/01-11-2016/WhyOfPride",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;controversatory&quot;]",
-	  "tags" : "queer, Pride, why, shame, college, lgbt, drag",
-	  "desc" : "Pride is a place to find people like you. People who are exhausted from explaining. People who lie too.",
-	  "date" : "January 11, 2016"
+      "tags" : "queer, Pride, why, shame, college, lgbt, drag",
+      "desc" : "Pride is a place to find people like you. People who are exhausted from explaining. People who lie too.",
+      "date" : "January 11, 2016"
     }
     ,
   
-
-    "worthfull-01-06-2016-worthful": {
+    {
+      "id": "worthfull-01-06-2016-worthful",
       "title": "Worthful",
       "url": " /worthfull/01-06-2016/Worthful",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;worthfull&quot;]",
-	  "tags" : "worthful, healing, excercise, rumination, self-talk, negative thoughts, emotions",
-	  "desc" : "Being worthful means being full of worth. It's a way to learn how to respect yourself, whether that's by respecting your feelings, your needs, your desires, or who you are as a person. It wasn't something I felt before.",
-	  "date" : "January 06, 2016"
+      "tags" : "worthful, healing, excercise, rumination, self-talk, negative thoughts, emotions",
+      "desc" : "Being worthful means being full of worth. It's a way to learn how to respect yourself, whether that's by respecting your feelings, your needs, your desires, or who you are as a person. It wasn't something I felt before.",
+      "date" : "January 06, 2016"
     }
     ,
   
-
-    "worthfull-12-22-2015-criticizedcriticizerobserver": {
+    {
+      "id": "worthfull-12-22-2015-criticizedcriticizerobserver",
       "title": "The Criticizer, the Criticized and the Observer",
       "url": " /worthfull/12-22-2015/CriticizedCriticizerObserver",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;worthfull&quot;]",
-	  "tags" : "healing, excercise, rumination, self-talk, negative thoughts, emotions",
-	  "desc" : "This exercise gives some insight into the things we're telling ourselves, and help recognizing how we berate ourselves.",
-	  "date" : "December 22, 2015"
+      "tags" : "healing, excercise, rumination, self-talk, negative thoughts, emotions",
+      "desc" : "This exercise gives some insight into the things we're telling ourselves, and help recognizing how we berate ourselves.",
+      "date" : "December 22, 2015"
     }
     ,
   
-
-    "worthfull-12-21-2015-adultchildrenbpdresources": {
+    {
+      "id": "worthfull-12-21-2015-adultchildrenbpdresources",
       "title": "Resources for Adult Children of a BPD Parent",
       "url": " /worthfull/12-21-2015/AdultChildrenBPDResources",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;worthfull&quot;]",
-	  "tags" : "bpd, resources, adult children, reading, articles, books, healing",
-	  "desc" : "A collection of resources I've found useful as someone with a parent with Borderline Personality Disorder (BPD).",
-	  "date" : "December 21, 2015"
+      "tags" : "bpd, resources, adult children, reading, articles, books, healing",
+      "desc" : "A collection of resources I've found useful as someone with a parent with Borderline Personality Disorder (BPD).",
+      "date" : "December 21, 2015"
     }
     ,
   
-
-    "controversatory-12-18-2015-uremarkableexpectations": {
+    {
+      "id": "controversatory-12-18-2015-uremarkableexpectations",
       "title": "Break Expectations and Be Unremarkable",
       "url": " /controversatory/12-18-2015/UremarkableExpectations",
-      "author": "Sarah Murto",
+      "author": "Sarah Overmyer",
       "category": "[&quot;controversatory&quot;]",
-	  "tags" : "queer, feminisim, religion, social",
-	  "desc" : "We all have silent expectations about the way things are. It doesn't mean it's bad when those expectations are violated; heck, we may want them broken. But it does mean they're there, lingering in the backs of our minds. Things don't jump out when they're unremarkable.",
-	  "date" : "December 18, 2015"
+      "tags" : "queer, feminisim, religion, social",
+      "desc" : "We all have silent expectations about the way things are. It doesn't mean it's bad when those expectations are violated; heck, we may want them broken. But it does mean they're there, lingering in the backs of our minds. Things don't jump out when they're unremarkable.",
+      "date" : "December 18, 2015"
     }
     
   
-}
+]
