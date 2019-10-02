@@ -1,0 +1,178 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+ul {
+	padding-left: 60px;
+}
+
+nav {
+	height: 30px;
+	text-align: center;
+}
+
+nav a {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-variant: small-caps;
+	font-size: 18px;
+	text-decoration: none;
+	padding-right: 10%;
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+header {
+
+	height: 60px;
+	padding-left: 5px;
+	font-size: 28px;
+	background-repeat: no-repeat;
+}
+
+
+#headerText {
+	width: 100%;
+	text-align: center;
+	margin-left: 30px;
+	height: 50px;
+	padding-top: 10px;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-variant: small-caps;
+}
+
+@media (max-width:565px) {
+	header {
+		height: 80px;
+	}
+
+	#headerText {
+		float: right;
+		text-align: right;
+		padding-top: 40px;
+		margin-right: 20px;
+	}
+
+	nav {
+		min-width: 320px;
+	}
+
+	nav a {
+		font-size: 14px;
+		padding-right: 10px;
+	}
+}
+
+@media (max-width:800px) {
+	#headerText {
+		text-align: right;
+		margin-left: 0px;
+		width: 97%;
+	}
+
+	nav a {
+		padding-right: 20px;
+	}
+
+}
+
+@media (max-width:400px) {
+	nav a {
+		padding-right: 2px;
+	}
+
+}
+
+
+#middle {
+	font-size: 1.24rem;
+	margin: 20px auto;
+	max-width: 1024px;
+}
+
+#container {
+	padding-top: 0px;
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif
+}
+
+#container img,
+iframe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+}
+
+.postdate {
+	padding: 0;
+	margin: 0;
+	text-align: right;
+	font-size: 12px;
+}
+
+.TheAudience {
+	text-align: right;
+	font-style: italic;
+	color: #31690D;
+}
+
+.Response {
+	text-align: left;
+	padding-left: 0px;
+	font-style: italic;
+}
+
+
+.lyrics {
+	text-align: center;
+	font-style: italic;
+}
+
+.cite {
+	font-size: 10px;
+	text-align: center;
+}
+
+#search_result_list, #search_result_list > li {
+	list-style: none;
+}
+
+#search_result_list > li {
+	margin-bottom: 1rem;
+}
+
+li.bimble:before {
+	color: #D45B97;
+	content: "➣ ";
+}
+
+li.controversatory:before {
+	color: navy;
+	content: "✣ ";
+}
+
+li.main:before {
+	color: #17C5E8;
+	content: "✒ ";
+}
+
+li.worthfull:before {
+	color: green;
+	content: "❁ ";
+}

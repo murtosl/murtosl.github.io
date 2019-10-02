@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<title>ENDELSEBEGIN  {% if page.title != nil %} -
-				{{ page.title }}
-			{% endif %}
+	<title>ENDELSEBEGIN {% if page.title != nil %} -
+		{{ page.title }}
+		{% endif %}
 	</title>
-	<link rel="stylesheet" href="{{ site.baseurl }}/
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/
 	{% if page.layout == 'worthful' %}
 		worthful.css
 	{% elsif page.layout == 'controversatory' %}
@@ -15,40 +16,47 @@
 	{% else %}
 		style.css
 	{% endif %}
-	"/>
-	<link rel="stylesheet" href="{{ site.baseurl }}/base.css" />
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<meta name="description" content="{{page.desc}}">
-	<meta name="keywords" content="{{page.keywords}}">
+	" />
+	<link rel="stylesheet" href="{{ site.baseurl }}/css/base.css" />
+	<meta name="description" content="{{ page.desc }}">
+	<meta name="keywords" content="{{ page.keywords }}">
 	<meta name="author" content="{{ site.author }}">
-	<meta property="og:title" content="{{page.title}}"/>
-	<meta property="og:site_name" content="ENDELSEBEGIN"/>
-	<meta property="og:type" content="blog"/>
-	<meta property="og:description" content="{{page.desc}}" />
+	<meta property="og:title" content="{{ page.title }}" />
+	<meta property="og:site_name" content="ENDELSEBEGIN" />
+	<meta property="og:type" content="blog" />
+	<meta property="og:description" content="{{ page.desc }}" />
 	<meta property="fb:page_id" content="922898241092794" />
 	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function () {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-74338640-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+		ga('create', 'UA-74338640-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 </head>
+
 <body>
 	{% include header.html %}
 	{% include navigation.html %}
 	<section id="middle">
 		<div id="container">
 			<section id="content">
-			<p class="postdate">{{page.postDate}}</p>
-			<h1>{{page.title}}</h1>
+				<p class="postdate">{{ page.postDate }}</p>
+				<h1>{{ page.title }}</h1>
 				{{ content }}
 			</section>
 		</div>
 	</section>
 	{% include footer.html %}
 </body>
+
 </html>
