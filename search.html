@@ -6,7 +6,7 @@ keywords: ENDELSEBEGIN, Controversatory, The Worthful Blog, Non-Ob Blog, Sarah M
 ---
 <div id="app" class="search-form">
   <label for="search_field">Whatcha lookin' for?</label>
-  <input type="text" id="search_field" v-model="search_query">
+  <input type="text" id="search_field" v-model="search_query" v-on:keyup.enter="search">
   <button v-on:click="search">Search</button>
   <span style="color: #17C5E8;">&#10002; Non-Ob Blog</span>
   <span style="color: navy;">&#10019; Controversatory</span>
