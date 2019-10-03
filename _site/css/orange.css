@@ -1,28 +1,33 @@
-body{
-		background-color: #FBFCF7;
+body {
+	background-color: #FBFCF7;
 }
 
-h1, h2, h3, h4, h5, h6{
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
 	color: #B86800;
 }
-nav{
+
+nav {
 	background-color: #EC8806;
 }
 
-nav a{
-	
+nav a {
 	color: #8A0E00;
 }
 
-a{
+a {
 	color: #B86800;
 }
 
-header{
+header {
 	color: #8A0E00;
 	background-image: url('/images/ENDELSEBEGIN_RED.png');
 }
 
-.TheAudience{
+.TheAudience {
 	color: #B86800;
 }
