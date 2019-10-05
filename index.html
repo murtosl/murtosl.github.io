@@ -1,39 +1,37 @@
 ---
 layout: homepage
 title: ENDELSEBEGIN
-desc:  I made a blog. Occasionally, I write things.
+desc: I made a blog. Occasionally, I write things.
 keywords: ENDELSEBEGIN, Controversatory, The Worthful Blog, Non-Ob Blog, Sarah Murto
 ---
 
-<table id="mainTbl">
-<tr><td class="nonobHeader">
-<h2><a href="{{site.baseurl}}/main.html" style="color: #056180;">Non-Ob Blog</a></h2></td>
-	<td class="conHeader"><h2><a href="{{site.baseurl}}/controversatory.html" style="color:#5E737F;">The Controversatory</a>	</h2></td>
-	
-<tr><td style="background-color:#FAFEFF;  border: 2px solid #048EBD;">
-{% assign post = site.categories['main'][0] %}
-    <p class="date">{{ post.date | date: '%m/%d/%Y'}}</p>
-	<p class="title"><a  style="color:#056180;" href="{{ post.url}}">{{ post.title }}</a></p>
-	<p>{{post.desc}}</p>
-	</td>
-	<td style="background-color:#F7FBFC; border: 2px solid #5E737F;">
-{% assign con = site.categories['controversatory'][0] %}
-    <p class="date">{{ con.date | date: '%m/%d/%Y'}}</p>
-	<p class="title"><a  style="color:#5E737F;" href="{{ con.url}}">{{ con.title }}</a></p>
-	<p>{{con.desc}}</p>
-	</td></tr>
-	<tr><td class="worthHeader"><h2><a href="{{site.baseurl}}/worthful.html" style="color:#91765C;">The Worthful Blog</a></h2></td>
-	<td class="bimHeader"><h2><a href="{{site.baseurl}}/bimble.html" style="color:#ffffff;">To Bimble</a></h2></td></tr><tr>
-	<td style="background-color: #FCF7F2; border: 2px solid #91765C;">
-	{% assign worth = site.categories['worthfull'][0] %}
-    <p class="date">{{ worth.date | date: '%m/%d/%Y'}}</p>
-	<p class="title"><a style="color:#91765C;" href="{{ worth.url}}">{{ worth.title }}</a></p>
-	<p> {{ worth.desc }}</p>
-	</td>
-	<td style="background-color: #FCF7F2; border: 2px solid #D45B97;">
-	{% assign bim = site.categories['bimble'][0] %}
-    <p class="date">{{ bim.date | date: '%m/%d/%Y'}}</p>
-	<p class="title"><a style="color:#D45B97;" href="{{ bim.url}}">{{ bim.title }}</a></p>
-	<p> {{ bim.desc }}</p>
-	</td></tr></tr>
-</table>
+<div class="blog-summaries">
+	<div class="item main">
+		<h2><a href="{{site.baseurl}}/main.html">Non-Ob Blog</a></h2>
+		{% assign post = site.categories['main'][0] %}
+		<p class="date">{{ post.date | date: '%m/%d/%Y'}}</p>
+		<p class="title"><a href="{{ post.url}}">{{ post.title }}</a></p>
+		<p>{{post.desc}}</p>
+	</div>
+	<div class="item controversatory">
+		<h2><a href="{{site.baseurl}}/controversatory.html" style="">The Controversatory</a></h2>
+		{% assign con = site.categories['controversatory'][0] %}
+		<p class="date">{{ con.date | date: '%m/%d/%Y'}}</p>
+		<p class="title"><a href="{{ con.url}}">{{ con.title }}</a></p>
+		<p>{{con.desc}}</p>
+	</div>
+	<div class="item worthful">
+		<h2><a href="{{site.baseurl}}/worthful.html">The Worthful Blog</a></h2>
+		{% assign worth = site.categories['worthful'][0] %}
+		<p class="date">{{ worth.date | date: '%m/%d/%Y'}}</p>
+		<p class="title"><a href="{{ worth.url}}">{{ worth.title }}</a></p>
+		<p> {{ worth.desc }}</p>
+	</div>
+	<div class="item bimble">
+		<h2><a href="{{site.baseurl}}/bimble.html">To Bimble</a></h2>
+		{% assign bim = site.categories['bimble'][0] %}
+		<p class="date">{{ bim.date | date: '%m/%d/%Y'}}</p>
+		<p class="title"><a href="{{ bim.url}}">{{ bim.title }}</a></p>
+		<p> {{ bim.desc }}</p>
+	</div>
+</div>
