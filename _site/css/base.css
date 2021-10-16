@@ -55,6 +55,12 @@ p {
 	padding-left: 30px;
 	padding-right: 30px;
 }
+blockquote{
+	font-style: italic;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+}
 
 ul {
 	padding-left: 60px;
