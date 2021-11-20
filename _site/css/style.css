@@ -25,6 +25,12 @@ nav{
 	background-color: #17C5E8;
 }
 
+
+
+.italic{
+	font-style: italic;
+}
+
 .TheAudience{
 	color: #056180 !important;
 }
