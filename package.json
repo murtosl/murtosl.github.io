@@ -5,7 +5,7 @@
     "build": "cp node_modules/lunr/lunr.min.js ./js && cp node_modules/vue/dist/vue.min.js ./js && cp node_modules/axios/dist/axios.min.js ./js && cp node_modules/axios/dist/axios.min.map ./js"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.2",
     "lunr": "^2.3.6",
     "vue": "^2.6.10"
   }
